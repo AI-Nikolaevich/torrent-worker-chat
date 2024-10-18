@@ -1,0 +1,106 @@
+C:\Users\Handy Bandy\Desktop\Torrent.Chat\Torrent.Chat.Worker\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\Handy Bandy\Desktop\Torrent.Chat\Torrent.Chat.Worker\bin\Debug\net8.0\appsettings.json
+C:\Users\Handy Bandy\Desktop\Torrent.Chat\Torrent.Chat.Worker\bin\Debug\net8.0\Torrent.Chat.Worker.exe
+C:\Users\Handy Bandy\Desktop\Torrent.Chat\Torrent.Chat.Worker\bin\Debug\net8.0\Torrent.Chat.Worker.deps.json
+C:\Users\Handy Bandy\Desktop\Torrent.Chat\Torrent.Chat.Worker\bin\Debug\net8.0\Torrent.Chat.Worker.runtimeconfig.json
+C:\Users\Handy Bandy\Desktop\Torrent.Chat\Torrent.Chat.Worker\bin\Debug\net8.0\Torrent.Chat.Worker.dll
+C:\Users\Handy Bandy\Desktop\Torrent.Chat\Torrent.Chat.Worker\bin\Debug\net8.0\Torrent.Chat.Worker.pdb
+C:\Users\Handy Bandy\Desktop\Torrent.Chat\Torrent.Chat.Worker\bin\Debug\net8.0\Microsoft.Extensions.Configuration.dll
+C:\Users\Handy Bandy\Desktop\Torrent.Chat\Torrent.Chat.Worker\bin\Debug\net8.0\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\Handy Bandy\Desktop\Torrent.Chat\Torrent.Chat.Worker\bin\Debug\net8.0\Microsoft.Extensions.Configuration.Binder.dll
+C:\Users\Handy Bandy\Desktop\Torrent.Chat\Torrent.Chat.Worker\bin\Debug\net8.0\Microsoft.Extensions.Configuration.CommandLine.dll
+C:\Users\Handy Bandy\Desktop\Torrent.Chat\Torrent.Chat.Worker\bin\Debug\net8.0\Microsoft.Extensions.Configuration.EnvironmentVariables.dll
+C:\Users\Handy Bandy\Desktop\Torrent.Chat\Torrent.Chat.Worker\bin\Debug\net8.0\Microsoft.Extensions.Configuration.FileExtensions.dll
+C:\Users\Handy Bandy\Desktop\Torrent.Chat\Torrent.Chat.Worker\bin\Debug\net8.0\Microsoft.Extensions.Configuration.Json.dll
+C:\Users\Handy Bandy\Desktop\Torrent.Chat\Torrent.Chat.Worker\bin\Debug\net8.0\Microsoft.Extensions.Configuration.UserSecrets.dll
+C:\Users\Handy Bandy\Desktop\Torrent.Chat\Torrent.Chat.Worker\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\Handy Bandy\Desktop\Torrent.Chat\Torrent.Chat.Worker\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\Handy Bandy\Desktop\Torrent.Chat\Torrent.Chat.Worker\bin\Debug\net8.0\Microsoft.Extensions.Diagnostics.dll
+C:\Users\Handy Bandy\Desktop\Torrent.Chat\Torrent.Chat.Worker\bin\Debug\net8.0\Microsoft.Extensions.Diagnostics.Abstractions.dll
+C:\Users\Handy Bandy\Desktop\Torrent.Chat\Torrent.Chat.Worker\bin\Debug\net8.0\Microsoft.Extensions.FileProviders.Abstractions.dll
+C:\Users\Handy Bandy\Desktop\Torrent.Chat\Torrent.Chat.Worker\bin\Debug\net8.0\Microsoft.Extensions.FileProviders.Physical.dll
+C:\Users\Handy Bandy\Desktop\Torrent.Chat\Torrent.Chat.Worker\bin\Debug\net8.0\Microsoft.Extensions.FileSystemGlobbing.dll
+C:\Users\Handy Bandy\Desktop\Torrent.Chat\Torrent.Chat.Worker\bin\Debug\net8.0\Microsoft.Extensions.Hosting.dll
+C:\Users\Handy Bandy\Desktop\Torrent.Chat\Torrent.Chat.Worker\bin\Debug\net8.0\Microsoft.Extensions.Hosting.Abstractions.dll
+C:\Users\Handy Bandy\Desktop\Torrent.Chat\Torrent.Chat.Worker\bin\Debug\net8.0\Microsoft.Extensions.Logging.dll
+C:\Users\Handy Bandy\Desktop\Torrent.Chat\Torrent.Chat.Worker\bin\Debug\net8.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\Handy Bandy\Desktop\Torrent.Chat\Torrent.Chat.Worker\bin\Debug\net8.0\Microsoft.Extensions.Logging.Configuration.dll
+C:\Users\Handy Bandy\Desktop\Torrent.Chat\Torrent.Chat.Worker\bin\Debug\net8.0\Microsoft.Extensions.Logging.Console.dll
+C:\Users\Handy Bandy\Desktop\Torrent.Chat\Torrent.Chat.Worker\bin\Debug\net8.0\Microsoft.Extensions.Logging.Debug.dll
+C:\Users\Handy Bandy\Desktop\Torrent.Chat\Torrent.Chat.Worker\bin\Debug\net8.0\Microsoft.Extensions.Logging.EventLog.dll
+C:\Users\Handy Bandy\Desktop\Torrent.Chat\Torrent.Chat.Worker\bin\Debug\net8.0\Microsoft.Extensions.Logging.EventSource.dll
+C:\Users\Handy Bandy\Desktop\Torrent.Chat\Torrent.Chat.Worker\bin\Debug\net8.0\Microsoft.Extensions.Options.dll
+C:\Users\Handy Bandy\Desktop\Torrent.Chat\Torrent.Chat.Worker\bin\Debug\net8.0\Microsoft.Extensions.Options.ConfigurationExtensions.dll
+C:\Users\Handy Bandy\Desktop\Torrent.Chat\Torrent.Chat.Worker\bin\Debug\net8.0\Microsoft.Extensions.Primitives.dll
+C:\Users\Handy Bandy\Desktop\Torrent.Chat\Torrent.Chat.Worker\bin\Debug\net8.0\RabbitMQ.Client.dll
+C:\Users\Handy Bandy\Desktop\Torrent.Chat\Torrent.Chat.Worker\bin\Debug\net8.0\System.Diagnostics.EventLog.dll
+C:\Users\Handy Bandy\Desktop\Torrent.Chat\Torrent.Chat.Worker\bin\Debug\net8.0\runtimes\win\lib\net8.0\System.Diagnostics.EventLog.Messages.dll
+C:\Users\Handy Bandy\Desktop\Torrent.Chat\Torrent.Chat.Worker\bin\Debug\net8.0\runtimes\win\lib\net8.0\System.Diagnostics.EventLog.dll
+C:\Users\Handy Bandy\Desktop\Torrent.Chat\Torrent.Chat.Worker\obj\Debug\net8.0\Torrent.Chat.Worker.csproj.AssemblyReference.cache
+C:\Users\Handy Bandy\Desktop\Torrent.Chat\Torrent.Chat.Worker\obj\Debug\net8.0\Torrent.Chat.Worker.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Handy Bandy\Desktop\Torrent.Chat\Torrent.Chat.Worker\obj\Debug\net8.0\Torrent.Chat.Worker.AssemblyInfoInputs.cache
+C:\Users\Handy Bandy\Desktop\Torrent.Chat\Torrent.Chat.Worker\obj\Debug\net8.0\Torrent.Chat.Worker.AssemblyInfo.cs
+C:\Users\Handy Bandy\Desktop\Torrent.Chat\Torrent.Chat.Worker\obj\Debug\net8.0\Torrent.Chat.Worker.csproj.CoreCompileInputs.cache
+C:\Users\Handy Bandy\Desktop\Torrent.Chat\Torrent.Chat.Worker\obj\Debug\net8.0\Torrent..8402849D.Up2Date
+C:\Users\Handy Bandy\Desktop\Torrent.Chat\Torrent.Chat.Worker\obj\Debug\net8.0\Torrent.Chat.Worker.dll
+C:\Users\Handy Bandy\Desktop\Torrent.Chat\Torrent.Chat.Worker\obj\Debug\net8.0\refint\Torrent.Chat.Worker.dll
+C:\Users\Handy Bandy\Desktop\Torrent.Chat\Torrent.Chat.Worker\obj\Debug\net8.0\Torrent.Chat.Worker.pdb
+C:\Users\Handy Bandy\Desktop\Torrent.Chat\Torrent.Chat.Worker\obj\Debug\net8.0\Torrent.Chat.Worker.genruntimeconfig.cache
+C:\Users\Handy Bandy\Desktop\Torrent.Chat\Torrent.Chat.Worker\obj\Debug\net8.0\ref\Torrent.Chat.Worker.dll
+C:\Users\Handy Bandy\Desktop\Torrent.Chat\Torrent.Chat.Worker\bin\Debug\net8.0\Dapper.dll
+C:\Users\Handy Bandy\Desktop\Torrent.Chat\Torrent.Chat.Worker\bin\Debug\net8.0\Npgsql.dll
+C:\Users\Handy Bandy\Desktop\Torrent.Chat\Torrent.Chat.Worker\bin\Debug\net8.0\Torrent.Chat.Storage.dll
+C:\Users\Handy Bandy\Desktop\Torrent.Chat\Torrent.Chat.Worker\bin\Debug\net8.0\Torrent.Chat.Storage.pdb
+C:\Users\Handy Bandy\Desktop\torrent services\Torrent.Chat\Torrent.Chat.Worker\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\Handy Bandy\Desktop\torrent services\Torrent.Chat\Torrent.Chat.Worker\bin\Debug\net8.0\appsettings.json
+C:\Users\Handy Bandy\Desktop\torrent services\Torrent.Chat\Torrent.Chat.Worker\bin\Debug\net8.0\Torrent.Chat.Worker.exe
+C:\Users\Handy Bandy\Desktop\torrent services\Torrent.Chat\Torrent.Chat.Worker\bin\Debug\net8.0\Torrent.Chat.Worker.deps.json
+C:\Users\Handy Bandy\Desktop\torrent services\Torrent.Chat\Torrent.Chat.Worker\bin\Debug\net8.0\Torrent.Chat.Worker.runtimeconfig.json
+C:\Users\Handy Bandy\Desktop\torrent services\Torrent.Chat\Torrent.Chat.Worker\bin\Debug\net8.0\Torrent.Chat.Worker.dll
+C:\Users\Handy Bandy\Desktop\torrent services\Torrent.Chat\Torrent.Chat.Worker\bin\Debug\net8.0\Torrent.Chat.Worker.pdb
+C:\Users\Handy Bandy\Desktop\torrent services\Torrent.Chat\Torrent.Chat.Worker\bin\Debug\net8.0\Dapper.dll
+C:\Users\Handy Bandy\Desktop\torrent services\Torrent.Chat\Torrent.Chat.Worker\bin\Debug\net8.0\Microsoft.Extensions.Configuration.dll
+C:\Users\Handy Bandy\Desktop\torrent services\Torrent.Chat\Torrent.Chat.Worker\bin\Debug\net8.0\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\Handy Bandy\Desktop\torrent services\Torrent.Chat\Torrent.Chat.Worker\bin\Debug\net8.0\Microsoft.Extensions.Configuration.Binder.dll
+C:\Users\Handy Bandy\Desktop\torrent services\Torrent.Chat\Torrent.Chat.Worker\bin\Debug\net8.0\Microsoft.Extensions.Configuration.CommandLine.dll
+C:\Users\Handy Bandy\Desktop\torrent services\Torrent.Chat\Torrent.Chat.Worker\bin\Debug\net8.0\Microsoft.Extensions.Configuration.EnvironmentVariables.dll
+C:\Users\Handy Bandy\Desktop\torrent services\Torrent.Chat\Torrent.Chat.Worker\bin\Debug\net8.0\Microsoft.Extensions.Configuration.FileExtensions.dll
+C:\Users\Handy Bandy\Desktop\torrent services\Torrent.Chat\Torrent.Chat.Worker\bin\Debug\net8.0\Microsoft.Extensions.Configuration.Json.dll
+C:\Users\Handy Bandy\Desktop\torrent services\Torrent.Chat\Torrent.Chat.Worker\bin\Debug\net8.0\Microsoft.Extensions.Configuration.UserSecrets.dll
+C:\Users\Handy Bandy\Desktop\torrent services\Torrent.Chat\Torrent.Chat.Worker\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\Handy Bandy\Desktop\torrent services\Torrent.Chat\Torrent.Chat.Worker\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\Handy Bandy\Desktop\torrent services\Torrent.Chat\Torrent.Chat.Worker\bin\Debug\net8.0\Microsoft.Extensions.Diagnostics.dll
+C:\Users\Handy Bandy\Desktop\torrent services\Torrent.Chat\Torrent.Chat.Worker\bin\Debug\net8.0\Microsoft.Extensions.Diagnostics.Abstractions.dll
+C:\Users\Handy Bandy\Desktop\torrent services\Torrent.Chat\Torrent.Chat.Worker\bin\Debug\net8.0\Microsoft.Extensions.FileProviders.Abstractions.dll
+C:\Users\Handy Bandy\Desktop\torrent services\Torrent.Chat\Torrent.Chat.Worker\bin\Debug\net8.0\Microsoft.Extensions.FileProviders.Physical.dll
+C:\Users\Handy Bandy\Desktop\torrent services\Torrent.Chat\Torrent.Chat.Worker\bin\Debug\net8.0\Microsoft.Extensions.FileSystemGlobbing.dll
+C:\Users\Handy Bandy\Desktop\torrent services\Torrent.Chat\Torrent.Chat.Worker\bin\Debug\net8.0\Microsoft.Extensions.Hosting.dll
+C:\Users\Handy Bandy\Desktop\torrent services\Torrent.Chat\Torrent.Chat.Worker\bin\Debug\net8.0\Microsoft.Extensions.Hosting.Abstractions.dll
+C:\Users\Handy Bandy\Desktop\torrent services\Torrent.Chat\Torrent.Chat.Worker\bin\Debug\net8.0\Microsoft.Extensions.Logging.dll
+C:\Users\Handy Bandy\Desktop\torrent services\Torrent.Chat\Torrent.Chat.Worker\bin\Debug\net8.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\Handy Bandy\Desktop\torrent services\Torrent.Chat\Torrent.Chat.Worker\bin\Debug\net8.0\Microsoft.Extensions.Logging.Configuration.dll
+C:\Users\Handy Bandy\Desktop\torrent services\Torrent.Chat\Torrent.Chat.Worker\bin\Debug\net8.0\Microsoft.Extensions.Logging.Console.dll
+C:\Users\Handy Bandy\Desktop\torrent services\Torrent.Chat\Torrent.Chat.Worker\bin\Debug\net8.0\Microsoft.Extensions.Logging.Debug.dll
+C:\Users\Handy Bandy\Desktop\torrent services\Torrent.Chat\Torrent.Chat.Worker\bin\Debug\net8.0\Microsoft.Extensions.Logging.EventLog.dll
+C:\Users\Handy Bandy\Desktop\torrent services\Torrent.Chat\Torrent.Chat.Worker\bin\Debug\net8.0\Microsoft.Extensions.Logging.EventSource.dll
+C:\Users\Handy Bandy\Desktop\torrent services\Torrent.Chat\Torrent.Chat.Worker\bin\Debug\net8.0\Microsoft.Extensions.Options.dll
+C:\Users\Handy Bandy\Desktop\torrent services\Torrent.Chat\Torrent.Chat.Worker\bin\Debug\net8.0\Microsoft.Extensions.Options.ConfigurationExtensions.dll
+C:\Users\Handy Bandy\Desktop\torrent services\Torrent.Chat\Torrent.Chat.Worker\bin\Debug\net8.0\Microsoft.Extensions.Primitives.dll
+C:\Users\Handy Bandy\Desktop\torrent services\Torrent.Chat\Torrent.Chat.Worker\bin\Debug\net8.0\Npgsql.dll
+C:\Users\Handy Bandy\Desktop\torrent services\Torrent.Chat\Torrent.Chat.Worker\bin\Debug\net8.0\RabbitMQ.Client.dll
+C:\Users\Handy Bandy\Desktop\torrent services\Torrent.Chat\Torrent.Chat.Worker\bin\Debug\net8.0\System.Diagnostics.EventLog.dll
+C:\Users\Handy Bandy\Desktop\torrent services\Torrent.Chat\Torrent.Chat.Worker\bin\Debug\net8.0\runtimes\win\lib\net8.0\System.Diagnostics.EventLog.Messages.dll
+C:\Users\Handy Bandy\Desktop\torrent services\Torrent.Chat\Torrent.Chat.Worker\bin\Debug\net8.0\runtimes\win\lib\net8.0\System.Diagnostics.EventLog.dll
+C:\Users\Handy Bandy\Desktop\torrent services\Torrent.Chat\Torrent.Chat.Worker\bin\Debug\net8.0\Torrent.Chat.Storage.dll
+C:\Users\Handy Bandy\Desktop\torrent services\Torrent.Chat\Torrent.Chat.Worker\bin\Debug\net8.0\Torrent.Chat.Storage.pdb
+C:\Users\Handy Bandy\Desktop\torrent services\Torrent.Chat\Torrent.Chat.Worker\obj\Debug\net8.0\Torrent.Chat.Worker.csproj.AssemblyReference.cache
+C:\Users\Handy Bandy\Desktop\torrent services\Torrent.Chat\Torrent.Chat.Worker\obj\Debug\net8.0\Torrent.Chat.Worker.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Handy Bandy\Desktop\torrent services\Torrent.Chat\Torrent.Chat.Worker\obj\Debug\net8.0\Torrent.Chat.Worker.AssemblyInfoInputs.cache
+C:\Users\Handy Bandy\Desktop\torrent services\Torrent.Chat\Torrent.Chat.Worker\obj\Debug\net8.0\Torrent.Chat.Worker.AssemblyInfo.cs
+C:\Users\Handy Bandy\Desktop\torrent services\Torrent.Chat\Torrent.Chat.Worker\obj\Debug\net8.0\Torrent.Chat.Worker.csproj.CoreCompileInputs.cache
+C:\Users\Handy Bandy\Desktop\torrent services\Torrent.Chat\Torrent.Chat.Worker\obj\Debug\net8.0\Torrent..8402849D.Up2Date
+C:\Users\Handy Bandy\Desktop\torrent services\Torrent.Chat\Torrent.Chat.Worker\obj\Debug\net8.0\Torrent.Chat.Worker.dll
+C:\Users\Handy Bandy\Desktop\torrent services\Torrent.Chat\Torrent.Chat.Worker\obj\Debug\net8.0\refint\Torrent.Chat.Worker.dll
+C:\Users\Handy Bandy\Desktop\torrent services\Torrent.Chat\Torrent.Chat.Worker\obj\Debug\net8.0\Torrent.Chat.Worker.pdb
+C:\Users\Handy Bandy\Desktop\torrent services\Torrent.Chat\Torrent.Chat.Worker\obj\Debug\net8.0\Torrent.Chat.Worker.genruntimeconfig.cache
+C:\Users\Handy Bandy\Desktop\torrent services\Torrent.Chat\Torrent.Chat.Worker\obj\Debug\net8.0\ref\Torrent.Chat.Worker.dll

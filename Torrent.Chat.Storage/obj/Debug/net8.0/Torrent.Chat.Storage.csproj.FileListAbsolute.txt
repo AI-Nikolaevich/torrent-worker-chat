@@ -1,0 +1,24 @@
+C:\Users\Handy Bandy\Desktop\Torrent.Chat\Torrent.Chat.Storage\bin\Debug\net8.0\Torrent.Chat.Storage.deps.json
+C:\Users\Handy Bandy\Desktop\Torrent.Chat\Torrent.Chat.Storage\bin\Debug\net8.0\Torrent.Chat.Storage.dll
+C:\Users\Handy Bandy\Desktop\Torrent.Chat\Torrent.Chat.Storage\bin\Debug\net8.0\Torrent.Chat.Storage.pdb
+C:\Users\Handy Bandy\Desktop\Torrent.Chat\Torrent.Chat.Storage\obj\Debug\net8.0\Torrent.Chat.Storage.csproj.AssemblyReference.cache
+C:\Users\Handy Bandy\Desktop\Torrent.Chat\Torrent.Chat.Storage\obj\Debug\net8.0\Torrent.Chat.Storage.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Handy Bandy\Desktop\Torrent.Chat\Torrent.Chat.Storage\obj\Debug\net8.0\Torrent.Chat.Storage.AssemblyInfoInputs.cache
+C:\Users\Handy Bandy\Desktop\Torrent.Chat\Torrent.Chat.Storage\obj\Debug\net8.0\Torrent.Chat.Storage.AssemblyInfo.cs
+C:\Users\Handy Bandy\Desktop\Torrent.Chat\Torrent.Chat.Storage\obj\Debug\net8.0\Torrent.Chat.Storage.csproj.CoreCompileInputs.cache
+C:\Users\Handy Bandy\Desktop\Torrent.Chat\Torrent.Chat.Storage\obj\Debug\net8.0\Torrent.Chat.Storage.dll
+C:\Users\Handy Bandy\Desktop\Torrent.Chat\Torrent.Chat.Storage\obj\Debug\net8.0\refint\Torrent.Chat.Storage.dll
+C:\Users\Handy Bandy\Desktop\Torrent.Chat\Torrent.Chat.Storage\obj\Debug\net8.0\Torrent.Chat.Storage.pdb
+C:\Users\Handy Bandy\Desktop\Torrent.Chat\Torrent.Chat.Storage\obj\Debug\net8.0\ref\Torrent.Chat.Storage.dll
+C:\Users\Handy Bandy\Desktop\torrent services\Torrent.Chat\Torrent.Chat.Storage\bin\Debug\net8.0\Torrent.Chat.Storage.deps.json
+C:\Users\Handy Bandy\Desktop\torrent services\Torrent.Chat\Torrent.Chat.Storage\bin\Debug\net8.0\Torrent.Chat.Storage.dll
+C:\Users\Handy Bandy\Desktop\torrent services\Torrent.Chat\Torrent.Chat.Storage\bin\Debug\net8.0\Torrent.Chat.Storage.pdb
+C:\Users\Handy Bandy\Desktop\torrent services\Torrent.Chat\Torrent.Chat.Storage\obj\Debug\net8.0\Torrent.Chat.Storage.csproj.AssemblyReference.cache
+C:\Users\Handy Bandy\Desktop\torrent services\Torrent.Chat\Torrent.Chat.Storage\obj\Debug\net8.0\Torrent.Chat.Storage.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Handy Bandy\Desktop\torrent services\Torrent.Chat\Torrent.Chat.Storage\obj\Debug\net8.0\Torrent.Chat.Storage.AssemblyInfoInputs.cache
+C:\Users\Handy Bandy\Desktop\torrent services\Torrent.Chat\Torrent.Chat.Storage\obj\Debug\net8.0\Torrent.Chat.Storage.AssemblyInfo.cs
+C:\Users\Handy Bandy\Desktop\torrent services\Torrent.Chat\Torrent.Chat.Storage\obj\Debug\net8.0\Torrent.Chat.Storage.csproj.CoreCompileInputs.cache
+C:\Users\Handy Bandy\Desktop\torrent services\Torrent.Chat\Torrent.Chat.Storage\obj\Debug\net8.0\Torrent.Chat.Storage.dll
+C:\Users\Handy Bandy\Desktop\torrent services\Torrent.Chat\Torrent.Chat.Storage\obj\Debug\net8.0\refint\Torrent.Chat.Storage.dll
+C:\Users\Handy Bandy\Desktop\torrent services\Torrent.Chat\Torrent.Chat.Storage\obj\Debug\net8.0\Torrent.Chat.Storage.pdb
+C:\Users\Handy Bandy\Desktop\torrent services\Torrent.Chat\Torrent.Chat.Storage\obj\Debug\net8.0\ref\Torrent.Chat.Storage.dll
